@@ -1,0 +1,4 @@
+input("Tuz yiyene ne denir biliyor musun?")
+print("Otuzyedi")
+input("Sıpası kaçan italyan adam ne der biliyor musun?")
+print("Spagetti")   
